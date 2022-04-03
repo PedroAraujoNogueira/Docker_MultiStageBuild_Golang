@@ -2,7 +2,8 @@
 
 ### Como executar o projeto:  
 -> Para ver o resultado basta usar o seguinte comando no seu terminal:   
-docker run pedroaraujonogueira/codeeducation  
+docker run pedroaraujonogueira/codeeducation 
+-> Link do DockerHub: https://hub.docker.com/repository/docker/pedroaraujonogueira/codeeducation  
 
 ### Descrição do projeto:  
 Esse projeto tem o objetivo de gerar uma imagem na linguagem GO. Essa 
